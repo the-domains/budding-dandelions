@@ -1,4 +1,3 @@
-layout_spectrum: 0.15951624000445008
 typography_spectrum: 0.276211766526103
 color:
   brandStrength: 0.9179998247418553
@@ -11,4 +10,6 @@ color:
     - '#FFFFFF'
     - '#FFC0A9'
     - '#FF8598'
+layout_spectrum: 0.15951624000445008
 name: budding-dandelions
+title: Bohemian Design
