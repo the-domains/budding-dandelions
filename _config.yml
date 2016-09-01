@@ -1,0 +1,14 @@
+layout_spectrum: 0.15951624000445008
+typography_spectrum: 0.276211766526103
+color:
+  brandStrength: 0.9179998247418553
+  lightness: 0.6027733744122088
+  saturation: 0.15858476981520653
+  rhythmicContrast: 0.4460816280916333
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: budding-dandelions
